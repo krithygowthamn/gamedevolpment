@@ -49,5 +49,9 @@
 ⮚	Press enter to set the size.
 
 
-
 ## OUTPUT:
+<img width="499" height="580" alt="Screenshot 2025-10-31 140953" src="https://github.com/user-attachments/assets/a8b0726c-8075-4e16-bebe-4b3c27d9706b" />
+
+
+## RESULT:
+Thus an image is edited using an image editing software.
